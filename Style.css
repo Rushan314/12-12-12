@@ -2,21 +2,6 @@ h2 {
     color: rgba(145, 32, 32, 0.178);
     text-align: center;
   }
-  
-    /* 1 body испоользовался 1 раз*/
-  body {
-  
-    background-position: center center;
-   
-    background-repeat: no-repeat;
-
-     background-attachment: fixed;
-
-    background-size: cover;
- 
-  }
-  
-  
 
   .span{
       font-style: italic;
